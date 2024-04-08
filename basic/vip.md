@@ -24,4 +24,4 @@ description: 这里介绍了芦笋录屏的会员权益都有哪些，以及会�
 
 ***
 
-推荐更多教程供你参考：[电脑端攻略](pc.md)｜[手机端攻略](phone.md)｜[会员特权](vip.md)｜[进阶教程](../advanced.md)｜[常见问题](../faq.md)｜[联系我们](../contact.md)
+推荐更多教程供你参考：[电脑端攻略](pc.md)｜[手机端攻略](phone.md)｜[会员特权](vip.md)｜[进阶教程](../advanced/)｜[常见问题](../faq.md)｜[联系我们](../contact.md)

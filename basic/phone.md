@@ -82,4 +82,4 @@ https://lusun.com/v/UDBTH8prKgU
 
 ***
 
-推荐更多教程供你参考：[电脑端攻略](pc.md)｜[会员特权](vip.md)｜[进阶教程](../advanced.md)｜[常见问题](../faq.md)｜[联系我们](../contact.md)
+推荐更多教程供你参考：[电脑端攻略](pc.md)｜[会员特权](vip.md)｜[进阶教程](../advanced/)｜[常见问题](../faq.md)｜[联系我们](../contact.md)
