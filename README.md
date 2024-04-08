@@ -1,10 +1,10 @@
 ---
-description: 这里介绍了芦笋录屏是什么，使用场景以及功能演示
+description: 你可以通过这篇文章了解到 「芦笋录屏是什么」 以及它的使用场景和功能演示
 ---
 
 # 👏欢迎你
 
-快捷导航：[💻电脑端攻略](basic/pc.md)｜[📱手机端攻略](basic/phone.md)｜[🌟会员特权](broken-reference)｜[❓常见问题](faq.md)｜[✉️联系我们](contact.md)
+快捷导航：[💻电脑端攻略](basic/pc.md)｜[📱手机端攻略](basic/phone.md)｜[🌟会员特权](basic/vip.md)｜[❓常见问题](faq.md)｜[✉️联系我们](contact.md)
 
 ## 芦笋录屏是什么？
 
@@ -26,7 +26,7 @@ description: 这里介绍了芦笋录屏是什么，使用场景以及功能演�
 >
 > 更多详情介绍，可查看👉 [电脑端芦笋录屏攻略](basic/pc.md)
 
-插入一个视频
+https://lusun.com/v/nrLsJuK8lZJ
 
 
 
