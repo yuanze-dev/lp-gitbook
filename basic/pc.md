@@ -57,19 +57,20 @@ _芦笋录屏工具栏教程 链接_: https://lusun.com/v/etvxS4eOK06
 
 ### 👉录制后视频存储
 
-
-
 使用芦笋录制的视频，可以选择保存到本地，也可以选择保存到自己的云空间
 
-
+<figure><img src="../.gitbook/assets/download.gif" alt=""><figcaption><p>录屏后保存到本地/云空间</p></figcaption></figure>
 
 ### 👉云空间视频分享
 
-
-
 芦笋录屏视频分享与下载 链接: https://lusun.com/v/lOgWlSiInYE
 
+你可以单视频分享文件，也可以整个文件夹一起分享。
 
+* 开放分享，点击链接即可观看
+* 密码分享，输入密码即可观看
+
+你也可以选择随时关闭分享按钮，关闭后，Ta 人将无法访问你的文件。
 
 ***
 
