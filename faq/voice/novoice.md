@@ -25,7 +25,7 @@ description: 这里主要介绍了两类录制声音失败的排查方法
 
 1. 检查是否开启了录制系统声音选项
 2. 部分会议软件（如腾讯会议）有录音限制，无法收录软件内声音，建议调大电脑扬声器音量录制，不要佩戴耳机
-3. 苹果电脑录制系统声音，需要安装声卡驱动，详见[Mac教程文档](mac-dian-nao-lu-zhi-xi-tong-sheng-yin.md)
+3. 苹果电脑录制系统声音，需要安装声卡驱动，详见[Mac教程文档](ma-c.md)
 
 <figure><img src="../../.gitbook/assets/luzhixitongyin.jpeg" alt="" width="270"><figcaption><p>Windows 开启录制系统声音</p></figcaption></figure>
 
