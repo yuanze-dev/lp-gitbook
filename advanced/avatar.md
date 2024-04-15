@@ -31,7 +31,7 @@ description: 如果录制人像时，你想要使用虚拟头像，可以在当�
 
 第三步：打开芦笋录屏，选择「人像+屏幕」模式，即可开启虚拟人像录制
 
-<figure><img src="../.gitbook/assets/lusun+avatar.png" alt=""><figcaption><p>芦笋录屏+芦笋虚拟头像</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/xuni.png" alt=""><figcaption><p>芦笋录屏+芦笋虚拟摄像头</p></figcaption></figure>
 
 ***
 
