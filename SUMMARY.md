@@ -10,7 +10,7 @@
   * [两种人像抠图方式](advanced/koutu.md)
   * [添加视频封面](advanced/cover.md)
   * [虚拟头像使用教程](advanced/avatar.md)
-  * [自定义水印](advanced/zi-ding-yi-shui-yin.md)
+  * [自定义水印](advanced/watermark.md)
   * [美颜等更多设置](advanced/moresetting.md)
 * [常见问题](faq/README.md)
   * [声音问题](faq/voice/README.md)
