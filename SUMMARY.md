@@ -12,6 +12,7 @@
   * [虚拟头像使用教程](advanced/avatar.md)
   * [自定义水印](advanced/watermark.md)
   * [美颜等更多设置](advanced/moresetting.md)
+  * [如何赚取收益](advanced/earnings.md)
 * [常见问题](faq/README.md)
   * [声音问题](faq/voice/README.md)
     * [Mac电脑录制系统声音](faq/voice/mac.md)
