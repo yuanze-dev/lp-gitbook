@@ -13,6 +13,8 @@
   * [自定义水印](advanced/watermark.md)
   * [美颜等更多设置](advanced/moresetting.md)
   * [如何赚取收益](advanced/earnings.md)
+  * [上传本地视频到芦笋空间](advanced/upload.md)
+  * [文件夹功能&批量操作](advanced/wen-jian-jia-gong-neng-pi-liang-cao-zuo.md)
 * [常见问题](faq/README.md)
   * [声音问题](faq/voice/README.md)
     * [Mac电脑录制系统声音](faq/voice/mac.md)

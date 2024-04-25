@@ -33,7 +33,7 @@ description: 如果你录制的人像希望是抠图效果的， 可以参考以
 Q1：使用真实背景时可以出现人像，选择抠像时人像是灰色的，一直转圈\
 A1：常见于 win10 以下的系统设备，需要下载驱动大师更新摄像头驱动后，再使用抠像功能
 
-<figure><img src="../.gitbook/assets/zhuanquan.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/masaike.png" alt=""><figcaption><p>用户报错的示意截图</p></figcaption></figure>
 
 Q2：点击白墙抠像法的「抠图人像」没有反应\
 A2：「绿幕抠像」 模式打开时，没有办法使用 「白墙抠像」，先打开头像 - 设置 - 摄像头设置 - 关闭绿幕抠像，然后再尝试抠图人像功能
