@@ -20,4 +20,8 @@ description: 这里介绍了如何将本地视频上传到芦笋空间内，你�
 
 你可以打开芦笋录屏APP，点击底部 「空间」 - 「+号」 - 「上传视频」
 
-<figure><img src="../.gitbook/assets/mobileupload.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/mobileupload.png" alt=""><figcaption><p>移动端上传视频</p></figcaption></figure>
+
+***
+
+推荐更多教程供你参考：[电脑端攻略](../basic/pc.md)｜[手机端攻略](../basic/phone.md)｜[会员特权](../basic/vip.md)｜[进阶教程](./)｜[联系我们](../contact.md)
