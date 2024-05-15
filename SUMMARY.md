@@ -17,6 +17,7 @@
   * [文件夹功能&批量操作](advanced/folder.md)
   * [添加视频封面](advanced/addcover.md)
   * [自定义水印](advanced/watermark-1.md)
+  * [群组](advanced/group.md)
 * [常见问题](faq/README.md)
   * [声音问题](faq/voice/README.md)
     * [Mac电脑录制系统声音](faq/voice/mac.md)
