@@ -2,27 +2,89 @@
 description: 这里介绍了群组芦笋群组功能如何去使用
 ---
 
-# 群组
+# 芦笋群组
 
 ## 视频教程
 
-### 　　芦笋群组电脑端教程链接：
+　芦笋群组使用教程链接：https://lusun.com/v/146sZjFJctN
 
 ## 文字教程 <a href="#f0-9f-91-8d-e6-96-87-e5-a-d-97-e6-95-99-e7-a8-8b" id="f0-9f-91-8d-e6-96-87-e5-a-d-97-e6-95-99-e7-a8-8b"></a>
 
-### 　　１、创建群组：
+### &#x20;  群组的增：
 
-　　　打开“芦笋云空间”——点击左侧“芦笋群组”右方的“＋”——输入“群组名称”和“价格”“简介”后可创建
+&#x20;  １、创建「芦笋群组」：
 
-### 　　２、在群组内添加视频有两种方式：
+&#x20;     （１）你可以通过访问 「[芦笋录屏云空间](https://lusun.com/dashboard/videos)」，点击 「芦笋群组」 - 加号
 
-　　　（１）群组下方的“上传视频”，可以将电脑本地的视频上传到群组空间内
+&#x20;         &#x20;
 
-　　　（２）将“个人空间”内的视频移动到群组内
+![](file:///C:/Users/dongx/AppData/Local/Temp/ksohtml21656/wps2.jpg)
 
-### 　　３、群组的收入提现入口
+&#x20;     （２）输入「群组名称」、「群组简介」、「设置价格」后完成创建
 
-　　　　点击右上角的头像——点击“交易中心”即可提取
+&#x20;           &#x20;
+
+![](file:///C:/Users/dongx/AppData/Local/Temp/ksohtml21656/wps3.jpg)
+
+&#x20;  2、添加视频：
+
+&#x20; 共有两种：
+
+&#x20; 第一种方式，是点击群组下方的「上传视频」按钮，可以将电脑本地的视频上传到群组空间内，<mark style="color:red;">注意：</mark>
+
+<mark style="color:red;">免费版文件的大小不能超过２００Ｍ，高级版会员文件大小不能超过２Ｇ</mark>
+
+&#x20;       &#x20;
+
+![](file:///C:/Users/dongx/AppData/Local/Temp/ksohtml21656/wps4.jpg)
+
+&#x20; 第二种方式，是将个人空间内的视频移动到群组内，如点击３个点，点击移动，选择「芦笋群组」
+
+&#x20;  &#x20;
+
+![](file:///C:/Users/dongx/AppData/Local/Temp/ksohtml21656/wps5.jpg)
+
+### 群组的改：
+
+１、分类管理：
+
+&#x20;    点击群组下方的「新建目录」创建，如：第一章，回车，这个时候我们可以把上方的视频拖拽到第一章下方
+
+&#x20; &#x20;
+
+![](file:///C:/Users/dongx/AppData/Local/Temp/ksohtml21656/wps6.jpg)
+
+&#x20;         可以建第二章，在同一章视频内也可以拖拽，调整这两个视频的顺序，有多个视频也可以拖拽调整顺
+
+序，我们可以在右侧看到视频的目录，这个名字我们也可以自己编辑。
+
+![](file:///C:/Users/dongx/AppData/Local/Temp/ksohtml21656/wps7.jpg)
+
+２、成员管理
+
+&#x20;       在群组的右上角点击「添加成员」，在这里可以复制我们的群组邀请链接，被邀请的用户点击链接后付相
+
+应的金额就可以加入到群组
+
+![](file:///C:/Users/dongx/AppData/Local/Temp/ksohtml21656/wps8.jpg)
+
+3、群组的收入提现入口，点击右上角的头像，点击「交易中心」就可以进入到提现的入口，就可以将群组
+
+付费的钱提取到自己的账户上
+
+![](file:///C:/Users/dongx/AppData/Local/Temp/ksohtml21656/wps9.jpg)
+
+![](file:///C:/Users/dongx/AppData/Local/Temp/ksohtml21656/wps10.jpg)
+
+### 群组的删
+
+１、可以在「设置」中的「权限管理」页面将其他的成员移除群组
+
+![](file:///C:/Users/dongx/AppData/Local/Temp/ksohtml21656/wps11.jpg)
+
+2、解散群组可以在右上角的「设置」中「群组设置」页面点击「解散群组」即可
+
+![](file:///C:/Users/dongx/AppData/Local/Temp/ksohtml21656/wps12.jpg)
 
 ## 关于权限
 
