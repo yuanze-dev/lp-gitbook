@@ -16,75 +16,71 @@ description: 这里介绍了群组芦笋群组功能如何去使用
 
 &#x20;     （１）你可以通过访问 「[芦笋录屏云空间](https://lusun.com/dashboard/videos)」，点击 「芦笋群组」 - 加号
 
-&#x20;         &#x20;
+&#x20;     &#x20;
 
-![](file:///C:/Users/dongx/AppData/Local/Temp/ksohtml21656/wps2.jpg)
+<figure><img src="../.gitbook/assets/图片1 (1).png" alt=""><figcaption></figcaption></figure>
+
+
 
 &#x20;     （２）输入「群组名称」、「群组简介」、「设置价格」后完成创建
 
 &#x20;           &#x20;
 
-![](file:///C:/Users/dongx/AppData/Local/Temp/ksohtml21656/wps3.jpg)
+<figure><img src="../.gitbook/assets/微信图片_20240516205116.png" alt=""><figcaption></figcaption></figure>
 
-&#x20;  2、添加视频：
+&#x20;2、添加视频：
 
 &#x20; 共有两种：
 
-&#x20; 第一种方式，是点击群组下方的「上传视频」按钮，可以将电脑本地的视频上传到群组空间内，<mark style="color:red;">注意：</mark>
+&#x20; 第一种方式，是点击群组下方的「上传视频」按钮，可以将电脑本地的视频上传到群组空间内，
 
-<mark style="color:red;">免费版文件的大小不能超过２００Ｍ，高级版会员文件大小不能超过２Ｇ</mark>
+<mark style="color:red;">注意：免费版文件的大小不能超过２００Ｍ，高级版会员文件大小不能超过２Ｇ</mark>
 
-&#x20;       &#x20;
+&#x20;      &#x20;
 
-![](file:///C:/Users/dongx/AppData/Local/Temp/ksohtml21656/wps4.jpg)
+<figure><img src="../.gitbook/assets/图片3 (2).png" alt=""><figcaption></figcaption></figure>
 
 &#x20; 第二种方式，是将个人空间内的视频移动到群组内，如点击３个点，点击移动，选择「芦笋群组」
 
 &#x20;  &#x20;
 
-![](file:///C:/Users/dongx/AppData/Local/Temp/ksohtml21656/wps5.jpg)
+<figure><img src="../.gitbook/assets/图片4.png" alt=""><figcaption></figcaption></figure>
 
 ### 群组的改：
 
 １、分类管理：
 
-&#x20;    点击群组下方的「新建目录」创建，如：第一章，回车，这个时候我们可以把上方的视频拖拽到第一章下方
+&#x20;       点击群组下方的「新建目录」创建，如：第一章，回车，这个时候我们可以把上方的视频拖拽到第一章下方
 
 &#x20; &#x20;
 
-![](file:///C:/Users/dongx/AppData/Local/Temp/ksohtml21656/wps6.jpg)
+<figure><img src="../.gitbook/assets/图片5.png" alt=""><figcaption></figcaption></figure>
 
-&#x20;         可以建第二章，在同一章视频内也可以拖拽，调整这两个视频的顺序，有多个视频也可以拖拽调整顺
+&#x20;       可以建第二章，在同一章视频内也可以拖拽，调整这两个视频的顺序，有多个视频也可以拖拽调整顺序，我们可以在右侧看到视频的目录，这个名字我们也可以自己编辑。
 
-序，我们可以在右侧看到视频的目录，这个名字我们也可以自己编辑。
+<figure><img src="../.gitbook/assets/图片6 (1).png" alt=""><figcaption></figcaption></figure>
 
-![](file:///C:/Users/dongx/AppData/Local/Temp/ksohtml21656/wps7.jpg)
+
 
 ２、成员管理
 
-&#x20;       在群组的右上角点击「添加成员」，在这里可以复制我们的群组邀请链接，被邀请的用户点击链接后付相
+&#x20;       在群组的右上角点击「添加成员」，在这里可以复制我们的群组邀请链接，被邀请的用户点击链接后付相应的金额就可以加入到群组
 
-应的金额就可以加入到群组
+<figure><img src="../.gitbook/assets/图片7.png" alt=""><figcaption></figcaption></figure>
 
-![](file:///C:/Users/dongx/AppData/Local/Temp/ksohtml21656/wps8.jpg)
+3、群组的收入提现入口，点击右上角的头像，点击「交易中心」就可以进入到提现的入口，就可以将群组付费的钱提取到自己的账户上
 
-3、群组的收入提现入口，点击右上角的头像，点击「交易中心」就可以进入到提现的入口，就可以将群组
-
-付费的钱提取到自己的账户上
-
-![](file:///C:/Users/dongx/AppData/Local/Temp/ksohtml21656/wps9.jpg)
-
-![](file:///C:/Users/dongx/AppData/Local/Temp/ksohtml21656/wps10.jpg)
+<figure><img src="../.gitbook/assets/图片8.png" alt=""><figcaption></figcaption></figure>
 
 ### 群组的删
 
 １、可以在「设置」中的「权限管理」页面将其他的成员移除群组
 
-![](file:///C:/Users/dongx/AppData/Local/Temp/ksohtml21656/wps11.jpg)
+<figure><img src="../.gitbook/assets/图片10.png" alt=""><figcaption></figcaption></figure>
 
 2、解散群组可以在右上角的「设置」中「群组设置」页面点击「解散群组」即可
 
-![](file:///C:/Users/dongx/AppData/Local/Temp/ksohtml21656/wps12.jpg)
+<figure><img src="../.gitbook/assets/图片11 (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 关于权限
 
