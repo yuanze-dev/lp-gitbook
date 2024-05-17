@@ -18,7 +18,7 @@ description: 这里介绍了群组芦笋群组功能如何去使用
 
 &#x20;     &#x20;
 
-<figure><img src="../.gitbook/assets/图片1 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/qunzu1 (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -26,7 +26,7 @@ description: 这里介绍了群组芦笋群组功能如何去使用
 
 &#x20;           &#x20;
 
-<figure><img src="../.gitbook/assets/微信图片_20240516205116.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/qunzu2.png" alt=""><figcaption></figcaption></figure>
 
 &#x20;2、添加视频：
 
@@ -38,13 +38,13 @@ description: 这里介绍了群组芦笋群组功能如何去使用
 
 &#x20;      &#x20;
 
-<figure><img src="../.gitbook/assets/图片3 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/qunzu3.png" alt=""><figcaption></figcaption></figure>
 
 &#x20; 第二种方式，是将个人空间内的视频移动到群组内，如点击３个点，点击移动，选择「芦笋群组」
 
 &#x20;  &#x20;
 
-<figure><img src="../.gitbook/assets/图片4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/qunzu4.png" alt=""><figcaption></figcaption></figure>
 
 ### 群组的改：
 
@@ -54,11 +54,13 @@ description: 这里介绍了群组芦笋群组功能如何去使用
 
 &#x20; &#x20;
 
-<figure><img src="../.gitbook/assets/图片5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/qunzu5.png" alt=""><figcaption></figcaption></figure>
 
 &#x20;       可以建第二章，在同一章视频内也可以拖拽，调整这两个视频的顺序，有多个视频也可以拖拽调整顺序，我们可以在右侧看到视频的目录，这个名字我们也可以自己编辑。
 
-<figure><img src="../.gitbook/assets/图片6 (1).png" alt=""><figcaption></figcaption></figure>
+&#x20;    &#x20;
+
+<figure><img src="../.gitbook/assets/qunzu6.png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -66,21 +68,29 @@ description: 这里介绍了群组芦笋群组功能如何去使用
 
 &#x20;       在群组的右上角点击「添加成员」，在这里可以复制我们的群组邀请链接，被邀请的用户点击链接后付相应的金额就可以加入到群组
 
-<figure><img src="../.gitbook/assets/图片7.png" alt=""><figcaption></figcaption></figure>
+&#x20;&#x20;
+
+<figure><img src="../.gitbook/assets/qunzu7.png" alt=""><figcaption></figcaption></figure>
 
 3、群组的收入提现入口，点击右上角的头像，点击「交易中心」就可以进入到提现的入口，就可以将群组付费的钱提取到自己的账户上
 
-<figure><img src="../.gitbook/assets/图片8.png" alt=""><figcaption></figcaption></figure>
+&#x20;
+
+<figure><img src="../.gitbook/assets/qunzu8.png" alt=""><figcaption></figcaption></figure>
 
 ### 群组的删
 
 １、可以在「设置」中的「权限管理」页面将其他的成员移除群组
 
-<figure><img src="../.gitbook/assets/图片10.png" alt=""><figcaption></figcaption></figure>
+&#x20;&#x20;
+
+<figure><img src="../.gitbook/assets/qunzu 9.png" alt=""><figcaption></figcaption></figure>
 
 2、解散群组可以在右上角的「设置」中「群组设置」页面点击「解散群组」即可
 
-<figure><img src="../.gitbook/assets/图片11 (1).png" alt=""><figcaption></figcaption></figure>
+&#x20;
+
+<figure><img src="../.gitbook/assets/qunzu10.png" alt=""><figcaption></figcaption></figure>
 
 ## 关于权限
 
