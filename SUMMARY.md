@@ -18,6 +18,7 @@
   * [添加视频封面](advanced/addcover.md)
   * [自定义水印](advanced/watermark-1.md)
   * [芦笋群组](advanced/group.md)
+  * [字幕教程](advanced/zi-mu-jiao-cheng.md)
 * [常见问题](faq/README.md)
   * [声音问题](faq/voice/README.md)
     * [Mac电脑录制系统声音](faq/voice/mac.md)
