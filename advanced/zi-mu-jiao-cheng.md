@@ -20,5 +20,5 @@ description: 这里介绍的是芦笋录屏的字幕教程
 
 3、打开「字幕」按钮，就可以智能识别字幕了
 
-<figure><img src="../.gitbook/assets/240521_03.png" alt=""><figcaption><p>240520_03</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/240521_03 (1).png" alt=""><figcaption><p>240520_03</p></figcaption></figure>
 
