@@ -19,7 +19,7 @@
   * [自定义水印](advanced/watermark-1.md)
   * [芦笋群组](advanced/group.md)
   * [字幕教程](advanced/word.md)
-  * [在线录制](advanced/record.md)
+  * [画笔功能](advanced/draw.md)
   * [视频剪辑](advanced/video.md)
 * [常见问题](faq/README.md)
   * [声音问题](faq/voice/README.md)
