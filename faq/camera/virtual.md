@@ -13,4 +13,4 @@ description: 如果你无法使用芦笋录屏的虚拟背景或智能抠像，�
 
 <figure><img src="../../.gitbook/assets/guanbilvmu.png" alt="" width="375"><figcaption><p>关闭绿幕</p></figcaption></figure>
 
-若以上教程无法解答问题，可以 [联系我们](../../contact/) 帮助解决。
+若以上教程无法解答问题，可以 [联系我们](../../contact.md) 帮助解决。

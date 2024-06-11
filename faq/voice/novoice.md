@@ -54,4 +54,4 @@ description: 这里主要介绍了两类录制声音失败的排查方法
 
 <figure><img src="../../.gitbook/assets/shoujixitongyin.png" alt="" width="337"><figcaption></figcaption></figure>
 
-若以上教程无法解答问题，可以 [联系我们](../../contact/) 帮助解决。
+若以上教程无法解答问题，可以 [联系我们](../../contact.md) 帮助解决。

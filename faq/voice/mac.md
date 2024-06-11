@@ -32,4 +32,4 @@ description: 如果你是Mac电脑需要录制系统声音，可以参考这个�
 
 ***
 
-推荐更多教程供你参考：[电脑端攻略](../../basic/pc.md)｜[手机端攻略](../../basic/phone.md)｜[会员特权](../../basic/vip.md)｜[进阶教程](../../advanced/)｜[联系我们](../../contact/)
+推荐更多教程供你参考：[电脑端攻略](../../basic/pc.md)｜[手机端攻略](../../basic/phone.md)｜[会员特权](../../basic/vip.md)｜[进阶教程](../../advanced/)｜[联系我们](../../contact.md)

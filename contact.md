@@ -11,11 +11,11 @@ description: 这里介绍了如何联系芦笋录屏的官方人员，你可以�
 * 你可以通过发送邮件到 [lusun@yuanze.com](mailto:lusun@yuanze.com) 反馈
 * 你也可以关注 「芦笋」 微信公众号 或 **微信用户交流群**
 
-<figure><img src="../.gitbook/assets/lupingwechat.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/lupingwechat.png" alt=""><figcaption></figcaption></figure>
 
 ## 😁了解官方 <a href="#f0-9f-98-81-e4-ba-86-e8-a7-a3-e5-ae-98-e6-96-b9" id="f0-9f-98-81-e4-ba-86-e8-a7-a3-e5-ae-98-e6-96-b9"></a>
 
 目前芦笋也会在三方媒体平台分享一些实用教程等内容，如果你也感兴趣可以关注
 
-<figure><img src="../.gitbook/assets/douyinerweima.png" alt=""><figcaption><p>芦笋录屏/芦笋提词器抖音二维码</p></figcaption></figure>
+<figure><img src=".gitbook/assets/douyinerweima.png" alt=""><figcaption><p>芦笋录屏/芦笋提词器抖音二维码</p></figcaption></figure>
 

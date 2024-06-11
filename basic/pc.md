@@ -74,4 +74,4 @@ _芦笋录屏工具栏教程 链接_: https://lusun.com/v/etvxS4eOK06
 
 ***
 
-推荐更多教程供你参考：[手机端攻略](phone.md)｜[会员特权](vip.md)｜[进阶教程](../advanced/)｜[常见问题](../faq/)｜[联系我们](../contact/)
+推荐更多教程供你参考：[手机端攻略](phone.md)｜[会员特权](vip.md)｜[进阶教程](../advanced/)｜[常见问题](../faq/)｜[联系我们](../contact.md)
