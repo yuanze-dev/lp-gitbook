@@ -34,4 +34,5 @@
   * [视频保存相关](faq/save.md)
   * [如何隐藏录制工具栏](faq/hidebar.md)
   * [录制的视频模糊/卡顿](faq/blur.md)
-* [联系我们](contact.md)
+* [联系我们](contact/README.md)
+  * [申请发票](contact/invoice.md)

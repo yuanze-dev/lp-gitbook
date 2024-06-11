@@ -27,4 +27,4 @@ description: 如果你遇到了录制的视频有点模糊，有一些卡顿，�
 <figure><img src="../.gitbook/assets/shipinkadun.png" alt=""><figcaption><p>设置入口，关闭美颜</p></figcaption></figure>
 
 \
-若以上教程无法解答问题，可以 [联系我们](../contact.md) 帮助解决。
+若以上教程无法解答问题，可以 [联系我们](../contact/) 帮助解决。

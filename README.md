@@ -4,7 +4,7 @@ description: 你可以通过这篇文章了解到 「芦笋录屏是什么」 �
 
 # 👏欢迎你
 
-快捷导航：[💻电脑端攻略](basic/pc.md)｜[📱手机端攻略](basic/phone.md)｜[🌟会员特权](basic/vip.md)｜[❓常见问题](faq/)｜[✉️联系我们](contact.md)
+快捷导航：[💻电脑端攻略](basic/pc.md)｜[📱手机端攻略](basic/phone.md)｜[🌟会员特权](basic/vip.md)｜[❓常见问题](faq/)｜[✉️联系我们](contact/)
 
 ## 芦笋录屏是什么？
 
